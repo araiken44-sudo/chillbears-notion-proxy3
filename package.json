@@ -1,0 +1,8 @@
+{
+  "name": "chillbears-notion-proxy3",
+  "version": "1.0.0",
+  "main": "api/notion.js",
+  "dependencies": {
+    "@notionhq/client": "^2.2.10"
+  }
+}
